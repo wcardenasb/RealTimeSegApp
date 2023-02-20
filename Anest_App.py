@@ -13,7 +13,7 @@ from proceso import (imagenProceso, removerAreas, aumentoTam, cuadrarRect,
 
 def saludo():
     # Título de la App
-    st.header("Anest App")
+    st.header("Instance segmentation app")
     # Descripción del aplicativo
     texto = """ Esta aplicación permite extraer la información relevante de los 
     dispositivos de ultrasonido. Primero extrae la imagen,para después extraer
