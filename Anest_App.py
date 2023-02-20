@@ -77,4 +77,4 @@ def camara():
 
 
 saludo()
-# camara()
+camara()
