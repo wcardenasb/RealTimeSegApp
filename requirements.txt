@@ -14,3 +14,5 @@ matplotlib==3.3.2
 matplotlib.pyplot
 
 streamlit-opencv-camera
+streamlit-webrtc
+
