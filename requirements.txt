@@ -4,8 +4,8 @@ h5py
 protobuf~=3.19.0
 
 keras==2.9.0
-
-
+opencv-python-headless==4.6.0.66
+streamlit==1.11.1
 Pillow==9.2.0
 
 tensorflow==2.9.1
