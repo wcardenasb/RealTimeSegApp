@@ -8,7 +8,7 @@ import pandas as pd
 from unet import unet
 from proceso import (imagenProceso, removerAreas, aumentoTam, cuadrarRect,
                      dimRec)
-import streamlit as st
+
 from streamlit_webrtc import webrtc_streamer
 
 # webrtc_streamer(key="example")
