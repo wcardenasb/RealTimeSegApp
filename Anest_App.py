@@ -9,7 +9,7 @@ from unet import unet
 from proceso import (imagenProceso, removerAreas, aumentoTam, cuadrarRect,
                      dimRec)
 
-from streamlit_webrtc import webrtc_streamer
+# from streamlit_webrtc import webrtc_streamer
 
 # webrtc_streamer(key="example")
 
