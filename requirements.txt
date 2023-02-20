@@ -12,3 +12,5 @@ tensorflow==2.9.1
 
 matplotlib==3.3.2
 matplotlib.pyplot
+
+streamlit-opencv-camera
